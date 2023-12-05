@@ -1,0 +1,11 @@
+{
+  "name": "node-class-tutoring",
+  "version": "1.0.0",
+  "description": "\"Tutor class\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevOluwaPelumi",
+  "license": "ISC"
+}
